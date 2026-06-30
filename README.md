@@ -1,4 +1,4 @@
-# OpenBSD Concepts Dashboard
+# OpenBSD Concepts 
 
 An interactive Streamlit dashboard that explains and simulates core OpenBSD operating-system concepts: its headline security features, common administration commands, key system calls, memory allocation, CPU scheduling, and process synchronization. Built as a group academic project (Group 13).
 
@@ -65,7 +65,3 @@ A few pages go beyond static text and let you drive a simulation:
 - **ULE Scheduler** (`scheduling.py`) — add multiple processes (priority, arrival time, burst time) and click "Start Scheduling" to watch a simulated priority-based round-robin execution.
 - **Synchronization** (`synchronization.py`) — click "Start Work" to run a live multi-threaded simulation of the construction-worker synchronization scenario described on the page.
 
-## Notes
-
-- The background image and logo referenced in `ui.py` are loaded from external URLs (Wikimedia and pxfuel), so an internet connection is required for the page to render with its intended styling.
-- `output.png` and `outputsync.png` are reference screenshots of the dashboard and synchronization simulation in action.
