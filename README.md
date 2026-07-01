@@ -1,6 +1,8 @@
 # OpenBSD Concepts 
 
-An interactive Streamlit dashboard that explains and simulates core OpenBSD operating-system concepts: its headline security features, common administration commands, key system calls, memory allocation, CPU scheduling, and process synchronization. Built as a group academic project (Group 13).
+An interactive Streamlit dashboard that explains and simulates core OpenBSD operating-system concepts: its headline security features, common administration commands, key system calls, memory allocation, CPU scheduling, and process synchronization.
+
+Check out at :https://opendbsd-sudhakar1104.streamlit.app/
 
 ## Overview
 
